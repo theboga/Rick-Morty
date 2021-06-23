@@ -1,4 +1,4 @@
-# Rock And Morty App | API call and Filtered by user
+# Rick And Morty App (React) | API call and Filtered by user
 ## Demo here
 https://sad-goodall-0134ec.netlify.app/
 
